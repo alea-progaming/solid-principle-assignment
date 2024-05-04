@@ -8,7 +8,6 @@ public class Order {
         this.address = address;
     }
 
-    // Getters
     public String getCustomerName() { return customerName; }
     public String getAddress() { return address; }
     public double getTotalPrice() { return totalPrice; }
